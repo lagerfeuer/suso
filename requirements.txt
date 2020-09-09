@@ -4,11 +4,13 @@ certifi==2020.6.20
 cycler==0.10.0
 decorator==4.4.2
 easyocr==1.1.8
+flake8==3.8.3
 future==0.18.2
 imageio==2.9.0
 iniconfig==1.0.1
 kiwisolver==1.2.0
 matplotlib==3.3.1
+mccabe==0.6.1
 more-itertools==8.5.0
 networkx==2.5
 numpy==1.19.1
@@ -18,6 +20,7 @@ Pillow==7.2.0
 pluggy==0.13.1
 py==1.9.0
 pycodestyle==2.6.0
+pyflakes==2.2.0
 pyparsing==2.4.7
 pytest==6.0.1
 python-bidi==0.4.2
